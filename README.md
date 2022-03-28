@@ -1,4 +1,4 @@
-### Meu nome é Lucas Bortoloti 👋
+### Olá 👋
 
 <div align="center">
   <a href="https://github.com/LucasBortoloti">
